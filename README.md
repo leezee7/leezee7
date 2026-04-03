@@ -16,6 +16,11 @@ I spend time following ideas, tools, and experiments around AI, LLMs, and agents
 - Trying small projects instead of making big claims
 - Building a clearer understanding through practice
 
+## Following
+
+- [OpenCowAI/opencow](https://github.com/OpenCowAI/opencow)
+- A project I am currently paying attention to in the agent space
+
 ## Notes
 
 This profile is intentionally simple for now.
